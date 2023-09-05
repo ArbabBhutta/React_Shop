@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Shop/static/css/main.9a76898c.css",
+    "main.js": "/React_Shop/static/js/main.9429e4eb.js",
+    "static/media/marvin-meyer-SYTO3xs06fU-unsplash.jpg": "/React_Shop/static/media/marvin-meyer-SYTO3xs06fU-unsplash.482f33f2615ecba89f77.jpg",
+    "static/media/erik-odiin-jbQvJx2EWnU-unsplash.jpg": "/React_Shop/static/media/erik-odiin-jbQvJx2EWnU-unsplash.19b65753f617746b3aa5.jpg",
+    "static/media/lily-banse--YHSwy6uqvk-unsplash.jpg": "/React_Shop/static/media/lily-banse--YHSwy6uqvk-unsplash.43ad28bc74cde17f58ca.jpg",
+    "static/media/vinicius-amnx-amano-MvJezf8FT4o-unsplash.jpg": "/React_Shop/static/media/vinicius-amnx-amano-MvJezf8FT4o-unsplash.27f4bb9a88685f8b1d8f.jpg",
+    "static/media/fashion-2762909_1280.jpg": "/React_Shop/static/media/fashion-2762909_1280.84e290b39babfb5f1c49.jpg",
+    "static/media/home-office-2804083_1280.jpg": "/React_Shop/static/media/home-office-2804083_1280.08539a8966502b531f38.jpg",
+    "static/media/Purple Minimalist Flower Shop Logo.png": "/React_Shop/static/media/Purple Minimalist Flower Shop Logo.80b15b22cefcd29de292.png",
+    "index.html": "/React_Shop/index.html",
+    "main.9a76898c.css.map": "/React_Shop/static/css/main.9a76898c.css.map",
+    "main.9429e4eb.js.map": "/React_Shop/static/js/main.9429e4eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a76898c.css",
+    "static/js/main.9429e4eb.js"
+  ]
+}
